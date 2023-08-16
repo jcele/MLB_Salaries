@@ -13,6 +13,8 @@ This dataset was downloaded from [Kaggle](https://www.kaggle.com/datasets/thedev
 # Deliverables
 An interactive Tableau Storyboard has been created as a deliverable for this project. You can find it [HERE](https://public.tableau.com/app/profile/jonel.celestino/viz/MLBSalaries_16920598318100/MLBSalaryStoryboard)
 
+* Note: not all steps taken in Python analysis are included in the Tableau storyboard - only those relevant to the final results. 
+
 # Tools Used
 - Python
 - Excel
