@@ -3,3 +3,6 @@ In an effort to familiarize myself with baseball data, I've decided to explore a
 
 # Data
 This dataset was downloaded from Kaggle
+
+Source: https://www.kaggle.com/datasets/thedevastator/maximizing-profits-with-mlb-player-salaries-and?resource=download
+
